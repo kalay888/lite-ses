@@ -4,7 +4,7 @@
     "description": "Web Session Generator",
     "logo": "URL",
     "repository": "https://github.com/kalay888/lite-ses",
-    "keywords": ["Malvin-Tech"],
+    "keywords": ["UPTHIRISACK"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
