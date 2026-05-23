@@ -1,5 +1,5 @@
 {
-  "description": "session name",
+  "description": "lite-ses",
   "main": "./malvin.js",
   "type": "commonjs",
   "engines": {
